@@ -1,0 +1,32 @@
+html tag : 뭔가 블로그 글쓰기 기능 느낌 ㅋㅋ
+150개의 태그가 있지만 거의 26개만 중요
+<u></u> 밑줄
+<strong></strong> 강조
+<h1></h1> 헤드라인, 1~6까지 있음.
+
+인기 순위
+<head>
+<body>
+<html>
+<title>
+<meta>
+<div>
+<a>
+<script>
+<link>
+<img>
+<p>
+<span>
+<li>
+<ul>
+<br>
+<style>
+<h1>
+<h2>
+<input>
+<form>
+<strong>
+<h3>
+<table>
+<tr>
+<td>

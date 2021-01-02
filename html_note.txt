@@ -19,7 +19,7 @@ html tag : 뭔가 블로그 글쓰기 기능 느낌 ㅋㅋ
 <span>
 <li>
 <ul>
-<br>
+<br> => 줄바꿈
 <style>
 <h1>
 <h2>
